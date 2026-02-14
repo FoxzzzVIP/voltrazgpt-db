@@ -6,14 +6,7 @@
       "added_by": 7826676028
     }
   },
-  "banned": {
-    "8504835505": {
-      "reason": "spam",
-      "expiry": 1740000000000,
-      "banned_at": 1739400000000,
-      "banned_by": 7826676028
-    }
-  },
+  "banned": {},
   "users": {
     "8504835505": {
       "name": "",
@@ -27,6 +20,6 @@
     "7826676028": true
   },
   "maintenance": false,
-  "lastUpdated": "2024-02-14T09:10:30.123Z",
+  "lastUpdated": "2026-02-14T04:27:09.144Z",
   "version": "1.0"
 }
