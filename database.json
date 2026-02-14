@@ -14,12 +14,21 @@
       "joined": 1739000000000,
       "daily": 5,
       "total_ai": 1
+    },
+    "7826676028": {
+      "id": 7826676028,
+      "name": "</> 𝙌𝙬𝙚𝙧𝙩𝙮𝙓",
+      "username": "qwertyxsec",
+      "joined": 1771043244869,
+      "daily": 0,
+      "total_ai": 0
     }
   },
   "verified": {
-    "7826676028": true
+    "7826676028": true,
+    "8504835505": true
   },
   "maintenance": false,
-  "lastUpdated": "2026-02-14T04:27:09.144Z",
+  "lastUpdated": "2026-02-14T04:27:24.869Z",
   "version": "1.0"
 }
