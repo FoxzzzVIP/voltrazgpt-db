@@ -13,6 +13,14 @@
   },
   "banned": {},
   "users": {
+    "1797186509": {
+      "id": 1797186509,
+      "name": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͜𝗹𝗲 𝗫 ☇ 𝗚𝗮𝗴𝗮𝗵𝘅𝘇𝘇",
+      "username": "gagahxzz1",
+      "joined": 1771061724847,
+      "daily": 0,
+      "total_ai": 0
+    },
     "8504835505": {
       "name": "",
       "username": "AboutQwertyx",
@@ -35,6 +43,6 @@
     "8504835505": true
   },
   "maintenance": false,
-  "lastUpdated": "2026-02-14T09:35:24.336Z",
+  "lastUpdated": "2026-02-14T09:35:24.847Z",
   "version": "1.0"
 }
