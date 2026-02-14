@@ -1,0 +1,32 @@
+{
+  "premium": {
+    "7826676028": {
+      "expiry": 1739520000000,
+      "added": 1739433600000,
+      "added_by": 7826676028
+    }
+  },
+  "banned": {
+    "8504835505": {
+      "reason": "spam",
+      "expiry": 1740000000000,
+      "banned_at": 1739400000000,
+      "banned_by": 7826676028
+    }
+  },
+  "users": {
+    "8504835505": {
+      "name": "",
+      "username": "AboutQwertyx",
+      "joined": 1739000000000,
+      "daily": 5,
+      "total_ai": 1
+    }
+  },
+  "verified": {
+    "7826676028": true
+  },
+  "maintenance": false,
+  "lastUpdated": "2024-02-14T09:10:30.123Z",
+  "version": "1.0"
+}
