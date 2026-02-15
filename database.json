@@ -42,10 +42,10 @@
     "7826676028": true,
     "8504835505": true
   },
-  "maintenance": true,
+  "maintenance": false,
   "userModel": {
     "7826676028": "gemini"
   },
-  "lastUpdated": "2026-02-15T14:53:58.421Z",
+  "lastUpdated": "2026-02-15T14:57:48.005Z",
   "version": "1.0"
 }
