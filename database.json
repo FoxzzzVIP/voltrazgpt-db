@@ -22,7 +22,7 @@
       "total_ai": 1
     },
     "8504835505": {
-      "name": "",
+      "name": "?",
       "username": "AboutQwertyx",
       "joined": 1739000000000,
       "daily": 10,
@@ -40,7 +40,7 @@
   "verified": {
     "1797186509": true,
     "7826676028": true,
-    "8504835505": true
+    "8504835505": false
   },
   "maintenance": false,
   "userModel": {
